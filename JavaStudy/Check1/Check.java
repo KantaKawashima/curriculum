@@ -20,7 +20,7 @@ public class Check{
         }
         System.out.println();
 
-        for (int i = 0; i < data.length - 1; i++) {
+        for (int i = 0; i < data.length; i++) {
             for (int j = data.length - 1; j > i; j--) {
                 if(data[j - 1] > data[j]){
                   int box = data[j];
