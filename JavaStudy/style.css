@@ -1,0 +1,29 @@
+/* これはコメントです */
+h1{
+  color: #0000ff;
+}
+p{
+  font-size: 80px;
+  font-family:  Tahoma;
+  width:500px; height:100px;
+  background-color:#ddd;
+}
+
+.select{
+  color:red
+}
+#wrapper{
+  width:800px;
+}
+.header{
+  height: 50px;
+  background-color: yellow;
+}
+.main{
+  height: 50px;
+  background-color: #0000ff;
+}
+.footer{
+  height: 50px;
+  background-color: red;
+}

@@ -47,8 +47,8 @@ public class Study {
        for (Entry<String, Integer> entry : shopMap.entrySet()) {
     	   System.out.println(entry.getKey() + "=" + entry.getValue() + "!");
        }
-       
-        
+
+
 
     }
    }
